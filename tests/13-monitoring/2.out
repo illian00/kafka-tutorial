@@ -1,0 +1,8 @@
+orders-1 URP
+orders-2 URP UNDER_MIN_ISR
+orders-3 NOT_PREFERRED
+orders-4 OFFLINE
+UnderReplicatedPartitions=2
+UnderMinIsrPartitionCount=1
+OfflinePartitionsCount=1
+PreferredReplicaImbalanceCount=1

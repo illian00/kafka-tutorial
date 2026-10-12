@@ -1,0 +1,3 @@
+api=18 ApiVersions v0 corr=1 client=kafka-python body=0
+api=3 Metadata v1 corr=2 client=rdkafka body=4
+PENDING 0

@@ -1,0 +1,3 @@
+t=20 isr=1,2,3 hw=0 leo=6 writable=yes
+t=50 isr=1,2,3 hw=6 leo=6 writable=yes
+t=70 isr=1,2,3 hw=6 leo=8 writable=yes

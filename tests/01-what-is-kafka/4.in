@@ -1,0 +1,4 @@
+APPEND one
+READ a 0
+READ a 3
+READ a 3

@@ -1,0 +1,7 @@
+TOPIC orders 3
+PRODUCE orders user-7 created
+PRODUCE orders user-8 paid
+PRODUCE orders user-7 shipped
+JOIN billing c1 orders
+POLL billing c1 10
+LAG billing

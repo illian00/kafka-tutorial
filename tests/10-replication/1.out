@@ -1,0 +1,2 @@
+t=200 isr=1,2,3 hw=4 leo=10 writable=yes
+t=1200 isr=1 hw=10 leo=10 writable=yes

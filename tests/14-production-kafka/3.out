@@ -1,0 +1,4 @@
+ASSIGN g b=0,1,2,3
+ASSIGN g a=0,1 b=2,3
+ASSIGN g a=0,1 b=2 c=3
+ASSIGN g b=0,1 c=2,3

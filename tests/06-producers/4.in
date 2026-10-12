@@ -1,0 +1,5 @@
+SEND 2 50 k two
+SEND 0 60 k zero
+SEND 1 70 k one
+FLUSH
+SEND 1 80 k again

@@ -1,0 +1,4 @@
+PUT a 1
+PUT a 2
+COMPACT
+DUMP

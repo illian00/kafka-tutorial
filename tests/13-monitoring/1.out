@@ -1,0 +1,4 @@
+UnderReplicatedPartitions=0
+UnderMinIsrPartitionCount=0
+OfflinePartitionsCount=0
+PreferredReplicaImbalanceCount=0

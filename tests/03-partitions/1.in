@@ -1,0 +1,7 @@
+PARTITIONS 6
+KEY 21
+KEY foobar
+KEY a-little-bit-long-string
+KEY a-little-bit-longer-string
+KEY lkjh234lh9fiuh90y23oiuhsafujhadof229phr9h19h89h8
+KEYHEX 616263

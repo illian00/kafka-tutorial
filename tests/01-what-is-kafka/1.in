@@ -1,0 +1,5 @@
+APPEND a
+APPEND b c
+READ x 1
+READ y 5
+END

@@ -1,0 +1,5 @@
+TOPIC t 4
+JOIN g b t
+JOIN g a t
+JOIN g c t
+LEAVE g a

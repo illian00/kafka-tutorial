@@ -1,0 +1,4 @@
+PARTITIONS 1
+KEY hello
+KEY world
+KEY

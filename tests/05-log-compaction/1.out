@@ -1,0 +1,5 @@
+segment 0
+2 a 3
+3 b TOMBSTONE
+4 c 4
+end=5

@@ -1,0 +1,6 @@
+events-0 URP
+events-1 URP
+UnderReplicatedPartitions=2
+UnderMinIsrPartitionCount=0
+OfflinePartitionsCount=0
+PreferredReplicaImbalanceCount=0

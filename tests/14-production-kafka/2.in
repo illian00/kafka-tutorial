@@ -1,0 +1,7 @@
+TOPIC t 3
+PRODUCE t - a
+PRODUCE t - b
+PRODUCE t - c
+PRODUCE t - d
+PRODUCE t k x
+PRODUCE t k y

@@ -1,0 +1,8 @@
+appended offset=0
+appended offset=1
+x offset=0 value=a
+x next=1
+y offset=0 value=a
+y offset=1 value=b c
+y next=2
+end=2

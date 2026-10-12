@@ -1,0 +1,4 @@
+PUT a 1
+PUT b 2
+PUT a 3
+DUMP

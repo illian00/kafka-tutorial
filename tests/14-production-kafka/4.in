@@ -1,0 +1,7 @@
+TOPIC t 2
+JOIN g c1 t
+POLL g c1 3
+PRODUCE t - one
+POLL g c1 3
+POLL g c1 3
+SIZING 1000 100 7 3

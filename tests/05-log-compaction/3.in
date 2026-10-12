@@ -1,0 +1,7 @@
+PUT k 1
+PUT k 2
+ROLL
+PUT j 3
+ROLL
+COMPACT
+DUMP

@@ -1,0 +1,5 @@
+BATCH_SIZE 140
+SEND 0 100 a xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SEND 0 105 a yyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+SEND 0 110 a zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+SEND 0 111 b w
