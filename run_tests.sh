@@ -55,7 +55,7 @@ run_one() { # $1 = input file
     c|cpp|rust|assembly|basic|cobol|d|fortran|pascal) ./.prog < "$1" ;;
     csharp|vbnet) mono .prog.exe < "$1" ;;
     kotlin)     java -jar .prog.jar < "$1" ;;
-    python)     "$PY_BIN" "$ENTRY" < "$1" ;;
+    python)     "$PY_BIN" "$ENTRY" < "$1" | tr -d '\r' ;;
     javascript) node "$ENTRY" < "$1" ;;
     typescript) npx -y tsx "$ENTRY" < "$1" ;;
     go)         go run "$ENTRY" < "$1" ;;
