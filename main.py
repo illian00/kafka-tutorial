@@ -58,7 +58,7 @@ def handle_cmd(cmd: str, rest: str):
             if offset < 0 or offset > broker.log_end_offset:
                 out.append(f"ERR out of range")
             else:
-                consumer.set_offset(offset)
+                get_consumer(reader).set_offset(offset)
 
         case "END":
             out.append(f"end={broker.log_end_offset}")
